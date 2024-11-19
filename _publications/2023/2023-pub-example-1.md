@@ -4,14 +4,13 @@ date:           2023-06-12 00:01:00 +0800
 selected:       true
 pub:            "The Astrophysical Journal"
 pub_date:       "2023"
-abstract: >-
-  Cover image is a photo by Thomas Renaud on Unsplash. The abstract of the publication is meant to be a TLDR (very brief summary with 1~2 sentences) of your paper.
-cover:          /assets/images/covers/cover1.jpg
+abstract: >- We investigate heat transport associated with compositionally driven convection driven by crystallization at the ocean–crust interface in accreting neutron stars, or growth of the solid core in cooling white dwarfs using hydrodynamical simulations and mixing length theory.
+cover:          /assets/images/covers/Fuentes23.jpg
 authors:
-- Your Name*
-- Robert White*
-- John Doe
-- Charles Green (Stanford)
+- J.R. Fuentes (CU Boulder)
+- Andrew Cumming (McGill)
+- Matias Castro-Tapia (McGill)
+- Evan H. Anders (Northwestern U)
 links:
-  Paper: https://www.cell.com
+  Paper: https://iopscience.iop.org/article/10.3847/1538-4357/accb56
 ---
