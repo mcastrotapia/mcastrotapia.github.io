@@ -5,6 +5,7 @@ selected:       false
 pub:            "International Conference on Learning Representations (ICLR)"
 pub_date:       "2023"
 abstract: >-
+We investigate heat transport associated with compositionally driven convection driven by crystallization at the ocean-crust interface in accreting neutron stars, or growth of the solid core in cooling white dwarfs using hydrodynamical simulations and mixing length theory.
 
 cover:          /assets/images/covers/Fuentes23.jpg
 authors:
