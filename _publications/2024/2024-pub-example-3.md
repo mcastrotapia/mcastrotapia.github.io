@@ -14,5 +14,5 @@ authors:
   - Matias Castro-Tapia (McGill)
   - Andrew Cumming (McGill)
 links:
-  Paper: https://iopscience.iop.org/article/10.3847/2041-8213/ad3100
+  Paper: https://iopscience.iop.org/article/10.3847/2041-8213/ad3100 
 ---
