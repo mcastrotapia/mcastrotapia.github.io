@@ -1,8 +1,8 @@
 ---
-title:          "Lorem ipsum: Dolor sit amet, consectetur adipiscing elit"
-date:           2023-01-05 00:01:00 +0800
+title:          "Heat Transport and Convective Velocities in Compositionally Driven Convection in Neutron Star and White Dwarf Interiors"
+date:           2023-06-12 00:01:00 +0800
 selected:       true
-pub:            "Nature Communications"
+pub:            "The Astrophysical Journal"
 pub_date:       "2023"
 abstract: >-
   Cover image is a photo by Thomas Renaud on Unsplash. The abstract of the publication is meant to be a TLDR (very brief summary with 1~2 sentences) of your paper.
