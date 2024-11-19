@@ -3,7 +3,6 @@ title:          "A Short Intense Dynamo at the Onset of Crystallization in White
 date:           2024-03-19 00:01:00 +0800
 selected:       true
 pub:            "The Astrophysical Journal Letters"
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2024"
 
 abstract: >-
