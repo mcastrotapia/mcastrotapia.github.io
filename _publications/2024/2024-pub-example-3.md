@@ -1,7 +1,7 @@
 ---
 title:          "A Short Intense Dynamo at the Onset of Crystallization in White Dwarfs"
 date:           2024-03-19 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "The Astrophysical Journal Letters"
 pub_date:       "2024"
 
