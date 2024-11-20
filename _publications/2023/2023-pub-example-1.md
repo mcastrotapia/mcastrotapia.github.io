@@ -1,7 +1,7 @@
 ---
 title:          "Heat Transport and Convective Velocities in Compositionally Driven Convection in Neutron Star and White Dwarf Interiors"
 date:           2023-06-12 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "The Astrophysical Journal"
 pub_date:       "2023"
 abstract: >-
