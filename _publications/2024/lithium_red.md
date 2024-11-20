@@ -7,8 +7,8 @@ pub_date:       "2024"
 
 abstract: >-
   Photo by ESO. We assembled the largest possible sample of low-mass giants with well-measured Li abundances, to determine with high statistical significance the close binary fractions of Li-rich and Li-normal giants, and thus test the binary interaction scenario for the emergence of Li-rich giants.
-
- authors:
+cover:          /assets/images/covers/red_bin.jpg
+authors:
   - Matias Castro-Tapia (McGill)
   - Claudia Aguilera-Gómez (PUC Chile)
   - Julio Chanamé (PUC Chile)
