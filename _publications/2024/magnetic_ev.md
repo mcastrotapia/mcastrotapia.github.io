@@ -10,7 +10,7 @@ abstract: >-
 cover:          /assets/images/covers/ev_mag.jpg
 authors:
   - Matias Castro-Tapia (McGill)
-  - Shu Zhang (McGill)
+  - Shu Zhang (McGill) 
   - Andrew Cumming (McGill)
 links:
   Paper: https://iopscience.iop.org/article/10.3847/1538-4357/ad7a6a
