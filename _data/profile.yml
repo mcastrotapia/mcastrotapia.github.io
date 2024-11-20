@@ -19,7 +19,7 @@ gscholar: fwLVd8QAAAAJ  # This is an example, replace it with your own Google Sc
 linkedin: matias-castro-tapia-b47782275
 orcid: 0000-0003-4636-7898
 
-short_bio_text_justify: false 
+short_bio_text_justify: true 
 short_bio: >-
   <p>
     Hi! I'm a PhD student in Physics at <a href="https://www.mcgill.ca" target="_blank">McGill University</a> since August 2022. I work on computational modeling of the structure and evolution of white dwarf stars, under the supervision of <a href="https://www.physics.mcgill.ca/~cumming" target="_blank">Prof. Andrew Cumming</a>.
